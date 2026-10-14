@@ -2,7 +2,7 @@
 
 ## GTM analytics series
 
-Four projects built on the same CRM data from a fictional SaaS company (the data lives in a private repo, and every record is made up). They follow a lead from the moment it arrives to the quarter's forecast. Each one is graded against an answer key, so the results are checked, not guessed.
+Four projects built on the same CRM data from a fictional SaaS company (the data lives in a private repo, and every record is made up). They follow a lead from the moment it arrives to the quarter's forecast. Each one is graded against an answer key.
 
 | Project | The question | Result |
 |---|---|---|
